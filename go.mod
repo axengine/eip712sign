@@ -1,4 +1,4 @@
-module eip712
+module eip712sign
 
 go 1.16
 
