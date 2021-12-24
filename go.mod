@@ -1,4 +1,4 @@
-module eip712sign
+module github.com/axengine/eip712sign
 
 go 1.16
 
